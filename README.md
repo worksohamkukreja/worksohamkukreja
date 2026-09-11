@@ -1,16 +1,14 @@
-## Hi there 👋
+Hey there! 👋
 
-<!--
-**worksohamkukreja/worksohamkukreja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Soham, a B.Tech IIoT student who likes to build, break, and figure things out.
+Currently exploring AI/ML, Python, IoT & Web Development.
+My main stack is Python, C++, SQL, Git/GitHub, NumPy & Pandas — with ML being my current rabbit hole.
+I enjoy hackathons, random ideas, and turning them into something that actually works.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fun Facts:
+🏸 Badminton addict
+🤖 AI/ML in progress
+💻 Coding & building things
+🚀 Hackathon enjoyer
+🔧 Electronics tinkerer
+🎯 Future ML Engineer
